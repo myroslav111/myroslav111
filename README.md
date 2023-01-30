@@ -18,11 +18,11 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"><img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;"></a></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"><img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width: 100%;"></a></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a></p>
+    <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://docs.nestjs.com/assets/logo-small.svg"><img align="left" alt="nestjs" width="32px" src="https://docs.nestjs.com/assets/logo-small.svg" style="max-width: 100%;"></a></p>
+  <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png"><img align="left" alt="mongoose" width="32px" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" style="max-width: 100%;"></a></p>
+</div>
 
-</div>
-<div style="display=flex">
-  <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://docs.nestjs.com/assets/logo-small.svg"><img alt="Visual Studio Code" width="32px" src="https://docs.nestjs.com/assets/logo-small.svg" style="max-width: 100%;"></a></p>
-  <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png"><img alt="Visual Studio Code" width="32px" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" style="max-width: 100%;"></a></p>
-</div>
+
+
 
 
