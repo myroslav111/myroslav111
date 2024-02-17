@@ -27,12 +27,6 @@
 
 ### Social network
 
-<div>
-<p dir="auto"><a href="https://t.me/myroslav1111" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/c49abbb463dc8dacadd925a76f5435f37ff421ddd1f612f7e055135d355dd346/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3030346637363f7374796c653d666c61742d737175617265266c6f676f3d54656c656772616d266c6f676f436f6c6f723d666666" alt="Telegram" data-canonical-src="https://img.shields.io/badge/-Telegram-004f76?style=flat-square&amp;logo=Telegram&amp;logoColor=fff" style="max-width: 100%;">
-    
-</a>
-<a href="https://www.linkedin.com/in/myroslav-kozar/" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/ab825d485511ecaa901ec08e1b3152cd71f27ffe6a7643e5563331ac17397033/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3061363362633f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d666666" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/Linkedin-0a63bc?style=flat&amp;logo=Linkedin&amp;logoColor=fff" style="max-width: 100%;"></a></p>
-</div>
 
 <div>
     <p dir="auto"><a href="mailto:myrkozar@gmail.com"><img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail logo" title="Gmail" height="25" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
