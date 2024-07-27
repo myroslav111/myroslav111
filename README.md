@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning server-side
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: myrkozar@gmail.com
 - ⚡ Fun fact: I thought it would be boring but I was wrong
 
