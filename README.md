@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🎓 I’m currently doing an apprenticeship as a software developer  
-- ☕ Mostly focused on backend stuff with Java  
-- ⚙️ Working with Spring, Maven and Vaadin  
-- 🌐 I also know frontend (HTML, CSS, JS, React), but I spend less time there  
-- 🚀 Just building things, learning new stuff and improving step by step  
+- 🎓 Doing an apprenticeship as a software developer  
+- ☕ Living mostly in the backend world with Java  
+- ⚙️ Working with Spring, Maven and Vaadin   
+- 🌐 I know frontend stuff (HTML, CSS, JS, React) 
+- 🧠 Currently learning, breaking things, fixing them again and improving step by step  
+- 🚀 Building projects and trying to write code that doesn’t make me cry later  
 - 📫 How to reach me: myrkozar@gmail.com
 
 <div><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/efd7030e7aff5751f85808180b86b2969c3b6b1912e7a322a4792eb70b24ce67/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5461746a616e6142657a6b6f726f7661696e61"><img src="https://camo.githubusercontent.com/efd7030e7aff5751f85808180b86b2969c3b6b1912e7a322a4792eb70b24ce67/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5461746a616e6142657a6b6f726f7661696e61" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=myroslav111" style="max-width: 100%;"></a></p></div>
